@@ -270,5 +270,4 @@ The project follows several basic security practices:
 The complete project contains the source code, risk assessment, firewall testing documentation and project instructions.
 
 Repository:
-
-`<PASTE YOUR GITHUB REPOSITORY URL HERE>`
+https://github.com/Thierry089/cryptography-network-security-exam.git
