@@ -1,0 +1,8 @@
+STUDENT RECORD
+
+Student ID: 2024/ICT/001
+Name: John Doe
+Programme: Information Technology
+Year: 3
+Email: john.doe@example.com
+GPA: 3.45
