@@ -1,0 +1,8 @@
+secret.key
+student_record.enc
+student_record_decrypted.txt
+student_record.sha256
+__pycache__/
+*.pyc
+venv/
+.venv/
