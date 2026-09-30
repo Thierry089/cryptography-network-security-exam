@@ -1,5 +1,47 @@
 # Cryptography and Network Security Exam
 
+## Encryption and Integrity Application
+
+This project implements a small Python security toolkit for protecting
+student record files. The application demonstrates file encryption,
+decryption, verification, and integrity checking using SHA-256.
+
+## Features
+
+The program can:
+
+1. Encrypt a supplied student record file.
+2. Save the encrypted output.
+3. Decrypt the encrypted file.
+4. Verify that the decrypted content matches the original.
+5. Calculate a SHA-256 hash.
+6. Detect whether the file has been modified.
+7. Handle missing files and invalid inputs without crashing.
+
+## Technologies Used
+
+- Python 3
+- Cryptography library
+- Fernet symmetric encryption
+- SHA-256 hashing
+- Git and GitHub
+
+## Installation
+
+### 1. Install Python
+
+Install Python 3 from:
+
+https://www.python.org/
+
+Check that Python is installed:
+
+```bash
+python --version
+
+
+# Cryptography and Network Security Exam
+
 ## 1. Project Overview
 
 This project was developed as part of the Cryptography and Network Security examination.
